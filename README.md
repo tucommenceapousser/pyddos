@@ -23,8 +23,8 @@
            ____/                                            _|         
                                                                
         DDos python script | Script used for testing ddos | Ddos attack     
-         Author: ___T7hM1___                                                
-         Github: http://github.com/t7hm1/pyddos                             
+         Author: trhacknon                                                
+         Github: https://github.com/tucommenceapousser/pyddos                             
         Version:3.0 
 
     usage: python3 pyddos.py -t [target] -p [port] -t [number threads]
